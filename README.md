@@ -12,6 +12,8 @@ Conditon Record　日々の体調記録アプリ　ver.4
   
 ## ③DEMO
 https://calthy-design.sakura.ne.jp/kadai10-auth/login.php
+アンケートアプリではないのですが修正間に合わず、indexはログインしなくても見れます。
+シークレットモードでないと認証情報の引き継ぎ（リジェネレート）がうまくいかないかもです。
 
 ## ④工夫した点・こだわった点
 - ログイン機能が無事実装できました
